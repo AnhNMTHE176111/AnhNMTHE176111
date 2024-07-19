@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Ngo Minh Tuan Anh!
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a little bit about me:
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNMTHE176111&show_icons=true&theme=radical)
 
 ## 🌟 Projects
 
